@@ -1,5 +1,8 @@
 venv/
 .idea/
 myvenv/
+/__pycache__
+/app/__pycache__
+*/__pycache__
 
 src/database.ini
